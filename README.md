@@ -12,7 +12,7 @@ Vast majority (81%) of users are subscribers
 | ![Viz 2](https://user-images.githubusercontent.com/111667387/206328392-afd7eb6f-0f0d-412a-9fae-703e2e9e28dc.jpg)| 
 | **Trip duration is not significantly affected by gender.** | 
 | ![Viz 3](https://user-images.githubusercontent.com/111667387/206328408-daf27ff3-2a85-406b-946b-e7da2c861eae.jpg)| 
-| **Most trips are taken during the hours when people typically commute to/from work.** | 
+| **Most trips are taken during the hours when people typically commute.** | 
 | ![Viz 4](https://user-images.githubusercontent.com/111667387/206328428-626894bb-40bb-44e0-9b9f-8879568ed680.jpg)| 
 | **Trip peak hours are not significantly affected by gender.**| 
 | ![Viz 5](https://user-images.githubusercontent.com/111667387/206328453-5d2b053b-1006-4a6c-a66d-9153c9c4344e.jpg)| 
