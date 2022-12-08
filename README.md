@@ -7,7 +7,7 @@ Below is the visualization created using our data. [Link to Tableau dashboard.](
 
 Vast majority (81%) of users are subscribers 
 | ------------- | 
-|![Viz 1](https://user-images.githubusercontent.com/111667387/206328252-31bd4d1e-ecd4-40eb-b0f9-0467f5488ba4.jpg)| 
+|![Viz 1](https://user-images.githubusercontent.com/111667387/206332635-d98f748b-ea56-4e2e-8e59-6613ec99b9b9.jpg)| 
 | **Most bikes are checked out for an average trip duration of 5 minutes.** | 
 | ![Viz 2](https://user-images.githubusercontent.com/111667387/206328392-afd7eb6f-0f0d-412a-9fae-703e2e9e28dc.jpg)| 
 | **Trip duration is not significantly affected by gender.** | 
